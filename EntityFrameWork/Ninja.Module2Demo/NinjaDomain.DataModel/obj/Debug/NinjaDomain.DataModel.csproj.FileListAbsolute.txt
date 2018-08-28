@@ -1,0 +1,15 @@
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.initial.resources
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.initial2.resources
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\Users\magalhaesa\Desktop\Cursos\EntityFrameWork\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb

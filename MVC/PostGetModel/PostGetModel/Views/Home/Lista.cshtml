@@ -1,0 +1,36 @@
+﻿@model PostGetModel.Models.Pessoa
+
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista</h2>
+
+<div>
+    @*<b>PessoaId</b>*@
+    <b>@Html.LabelFor(x => x.PessoaId)</b>
+</div>
+<div>
+    @*@ViewData["PessoaId"]*@
+    @Model.PessoaId
+</div>
+<div>
+    @*<b>Nome</b>*@
+    <b>@Html.LabelFor(x => x.Nome)</b>
+</div>
+<div>
+    @*@ViewData["Nome"]*@
+    @Model.Nome
+</div>
+<div>
+    @*<b>Twitter</b>*@
+    <b>@Html.LabelFor(x => x.Twitter)</b>
+</div>
+<div>
+    @*@ViewData["Twitter"]*@
+    @Model.Twitter
+</div>
+
+@*<a href="~/" title="Voltar">Voltar</a>*@
+@Html.ActionLink("Voltar","Index","Home")
+

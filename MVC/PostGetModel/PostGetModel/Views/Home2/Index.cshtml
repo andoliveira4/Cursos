@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<form action="Home/Lista" method="POST">
+    <fieldset>
+        <legend>Pessoa</legend>
+        <div>
+            <label for="PessoaId">Código</label>
+        </div>
+        <div>
+            <input type="text" value="@Model.PessoaId" id="PessoaId" name="PessoaId" />
+        </div>
+        <div>
+            <label for="Nome">Nome</label>
+        </div>
+        <div>
+            <input type="text" value="@Model.Nome" id="Nome" name="Nome" />
+        </div>
+        <div>
+            <label for="Twitter">Twitter</label>
+        </div>
+        <div>
+            <input type="text" value="@Model.Twitter" id="Twitter" name="Twitter" />
+        </div>
+        <p><input type="submit" value="Enviar" /></p>
+    </fieldset>
+</form>
+
